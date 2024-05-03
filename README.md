@@ -9,33 +9,6 @@
 
 📩 *You can contact me from discord: yungdoomofficial*
 
-# Contents
-1. [Prerequisites](#prerequisites)
-   1. [Base](#base)
-   2. [Dependencies](#dependencies)
-   3. [Miscellaneous](#miscellaneous)
-   4. [Prebuilt Files](#prebuilt-files)
-2. [Prerequisites Setup](#prerequisites-setup)
-3. [Patching The Source Code](#patching-the-source-code)
-4. [Building Process](#building-process)
-   1. [Building The Game Binary/Executable](#building-the-game-binaryexecutable)
-   2. [Building Shaders](#building-shaders)
-   3. [Building Game Scripts](#building-game-scripts)
-5. [Patching Game Assets](#patching-game-assets)
-   1. [Main Game Assets](#main-game-assets)
-   2. [Modifying the RPF Files](#modifying-the-rpf-files)
-7. [Running The Game](#running-the-game)
-8. [BankRelease & Debug Controls](#bankrelease--debug-controls)
-9. [Known Bugs and Errors](#known-bugs-and-errors)
-   1. [Known Issues](#known-issues)
-      1. [Main Issues](#main-issues)
-      2. [Gameplay](#gameplay)
-10. [Working Status](#working-status)
-   1. [Compiling](#compiling)
-   2. [Main Working Status](#main-working-status)
-11. [Final Thoughts](#final-thoughts)
-
-
 ## Prerequisites
 ### Base
  - Windows 10/11
